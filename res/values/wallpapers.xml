@@ -44,29 +44,29 @@
     </string-array>
 
     <string-array name="info" translatable="false">
-    <item>Pitch Black by Krapk</item>
-    <item>Alien by Renan Lopes</item>
-    <item>Starwars by Gabriel Bercelli</item>
-    <item>Watchdog by Krapk</item>
-    <item>Night by Gabriel Bercelli</item>
-    <item>Vintage by Renan Lopes</item>
-    <item>Material Dark by Krapk</item>
-    <item>Material Light by Krapk</item>
-    <item>Colors by BadBoy</item>
-    <item>Darkness by BadBoy</item>
-    <item>German Soldier by Renan Lopes</item>
-    <item>PC by Renan Lopes</item>
-    <item>Material Park by Gabriel Bercelli</item>
-    <item>NeonBlack Accent by Azeem Shaikh</item>
-    <item>NeonGrey Accent by Azeem Shaikh</item>
-    <item>Moon by Gabriel Bercelli</item>
-    <item>Monstors by Renan Lopes</item>
-    <item>Bubbles by Gabriel Bercelli</item>
-    <item>Day by Renan Lopes</item>
-    <item>Material Blue by BadBoy</item>
+    <item>Wave boxlogo by Zeco</item>
+    <item>Hill boxlogo by Zeco</item>
+    <item>Blue material by Google</item>
+    <item>CLickDev Logo by CLickDev</item>
+    <item>Material stripe by Google</item>
+    <item>Material triangle by Google</item>
+    <item>Material waves by Google</item>
+    <item>Click project banner by Zeco</item>
+    <item>Material Cross by Google</item>
+    <item>Material lattice by Google</item>
+    <item>Material line and round by Google</item>
+    <item>Material line by Google</item>
+    <item>Material 3 Color by Google</item>
+    <item>Material 4 Color by Google</item>
+    <item>Material abstract by Google</item>
+    <item>Feather by Anonymous</item>
+    <item>Whirlwind by OnePlus</item>
+    <item>Icebergs by Anonymous</item>
+    <item>Red Mountains by Anonymous</item>
+    <item>Material Crosses by Google</item>
     <item>Material Brown by BadBoy</item>
-    <item>Moonlight by Hamza</item>
-    <item>Logo Black by Yasan</item>
+    <item>Material pages by Google</item>
+    <item>Material Squares by Google</item>
     <item>Dark Grey by Yasan</item>
     <item>Dark Material1 by Yasan</item>
     <item>Dark Material2 by Yasan</item>
@@ -74,7 +74,7 @@
     <item>Dark Material4 by Yasan</item>
     <item>Dark Material5 by Yasan</item>
     <item>Dark Material6 by Yasan</item>
-    <item>Dark Material7 by Yasan</item>
-    <item>Logo Outline by Yasan</item>
+    <item>mauve by CyanogenMod</item>
+    <item>Cyan Material by Google</item>
     </string-array>
 </resources>
